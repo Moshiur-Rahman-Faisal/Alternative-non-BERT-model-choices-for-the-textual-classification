@@ -1,4 +1,4 @@
-# Bangla Ekman's Six Basic Emotions Dataset. 
+# Bengali Ekman's Six Basic Emotions Corpus 
 Dataset license: https://www.kaggle.com/datasets/moshiurrahmanfaisal/bangla-ekman-six-emotion-dataset/settings
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
