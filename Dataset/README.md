@@ -1,5 +1,5 @@
 # Bangla Ekman's Six Basic Emotions Dataset. 
-Dataset license: https://www.kaggle.com/datasets/moshiurrahmanfaisal/bangla-ekman-six-emotion-dataset
+Dataset license: https://www.kaggle.com/datasets/moshiurrahmanfaisal/bangla-ekman-six-emotion-dataset/settings
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Related paper: Alternative non-BERT model choices for the textual classification in low-resource languages and environments
