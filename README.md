@@ -18,9 +18,9 @@ Word embedding with `fastText` and context embedding with `BERT` was used.
 
 From the dataset 80% data was used for training and 20% for testing.
 
-#### Proposed models fusion models with self-attention 
+#### Proposed models fusion models with self-attention.
 
-| Deep Neural Network Models | Accuracy (%) 
+| **Deep Neural Network Models** | **Accuracy (%)** 
 | :-------- | :------- 
 | CNN + attention + BiLSTM + CNN | 86.83%
 | CNN + attn. + LSTM + CNN | 86.91% 
@@ -28,7 +28,7 @@ From the dataset 80% data was used for training and 20% for testing.
 
 #### Transformer models from Hugging Face
 
-| BERT Models | Accuracy (%) 
+|**BERT Models** | **Accuracy (%)** 
 | :-------- | :------- 
 | mBERT | 86.62%
 | Bangla BERT | 86.17% 
@@ -39,5 +39,6 @@ Also the model comparison was done in `GLUE` benchmark dataset.
 
 ## Referance
 
-#### Read the paper for more details: [Alternative non-BERT model choices for the textual classification in low-resource languages and environments](https://aclanthology.org/2022.deeplo-1.20) (Mustavi Maheen et al., DeepLo 2022)
+#### Read the paper for more details:
+[Alternative non-BERT model choices for the textual classification in low-resource languages and environments](https://aclanthology.org/2022.deeplo-1.20) (Mustavi Maheen et al., DeepLo 2022)
 
