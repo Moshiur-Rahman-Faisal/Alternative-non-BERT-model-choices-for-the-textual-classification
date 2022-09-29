@@ -39,7 +39,5 @@ Also the model comparison was done in `GLUE` benchmark dataset.
 
 ## Referance
 
-#### Read the paper for more details. 
-
-[Alternative non-BERT model choices for the textual classification in low-resource languages and environments](https://aclanthology.org/2022.deeplo-1.20) (Mustavi Maheen et al., DeepLo 2022)
+#### Read the paper for more details: [Alternative non-BERT model choices for the textual classification in low-resource languages and environments](https://aclanthology.org/2022.deeplo-1.20) (Mustavi Maheen et al., DeepLo 2022)
 
